@@ -1,0 +1,14 @@
+
+1) Input = February 30 , 2016 | unix = null | natural = null | where = 6
+2) Input = 234564346 | unix = 234564346 | natural = June 07, 1977 | where = 2
+3) Input = JUnE            , 13 1918 | unix = -1626903382 | natural = June 13 1918 | where = 5
+4) Input = JUnE            , 13 , 1918 | unix = null | natural = null | where = 4
+5) Input = 75123131231234234324 | unix = null | natural = null | where  = 1
+6) Input = March 5 2040 | unix = 2214527933 | natural = March 05 2040 | where = 7
+7) Input = Mach 5 2040 | unix = null | natural = null | where = 3
+8) Input = july 0 2000 | unix = null | natural = null | where = 8
+9) Input = wqreqdqw@#$#@q52423,`12123/kin | unix = null | natural = null | where = 3 
+10) Input = december -2 , 1956 | unix = null | natural = null | where = 4 
+11) Input = 00123456789 | unix = 123456789 | natural = November 29 1973 | where  = 2
+12) Input =                  00123456789 | unix = 123456789 | natural = November 29 1973 | where  = 2
+

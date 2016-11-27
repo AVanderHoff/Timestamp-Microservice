@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVanderHoff/Timestamp-Microservice.git"
+  },
+  "author": "Andrew VanderHoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVanderHoff/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/AVanderHoff/Timestamp-Microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "minute": "0.0.1",
+    "moment": "^2.15.2",
+    "path": "^0.12.7"
+  }
+}
